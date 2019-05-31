@@ -16,3 +16,27 @@ telnet.php make a telent request to a server and port, show the result max 10 ro
 traceroute.php make a 30 jump traceroute and present it.
 
 Maintainer Stellan Eriksson <micro_se@hotmail.com>
+
+
+
+A simple how to
+----------------------------------------------
+Download all files
+
+To build the image:
+docker build -t phpserver:v1 .
+
+To start the pod:
+docker run --rm -p 8080:80 testserver:v1
+
+you will now see tha access log on the apache server
+to get out ctrl + c
+
+To see the pod name:
+docker ps -all
+
+To stop the pod:
+docker stop <pod name>
+
+To login to the pod with bash shell:
+docker exec -i -t <pod name> bash
