@@ -1,4 +1,5 @@
 FROM php:7.2-apache
+Maintainer Stellan Eriksson <micro_se@hotmail.com>
 
 RUN apt-get update -y
 RUN apt-get upgrade -y
