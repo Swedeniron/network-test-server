@@ -1,4 +1,4 @@
-Network-test-server ![License MIT](https://go-shields.herokuapp.com/license-MIT-blue.png)
+Network-test-server ![License MIT](https://go-shields.herokuapp.com/license-MIT-blue.png) https://cocoapod-badges.herokuapp.com/v/$PODNAME/badge.png 
 ===============
 Docker pod with a simple webserver for network testing writen to Tele2
 
