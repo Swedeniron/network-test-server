@@ -1,9 +1,5 @@
-Cocoapod Badges ![License MIT](https://go-shields.herokuapp.com/license-MIT-blue.png)
+Network-test-server ![License MIT](https://go-shields.herokuapp.com/license-MIT-blue.png)
 ===============
-
-
-
-# Network-test-server
 Docker pod with a simple webserver for network testing writen to Tele2
 
 When you have different accounts and running pysical and cloud servers, having a lot of peronel that dont know how to login to pod's
@@ -20,11 +16,13 @@ curl.php make a curl request to a server and present te result by grabbing it.
 telnet.php make a telent request to a server and port, show the result max 10 rows
 traceroute.php make a 30 jump traceroute and present it.
 
-Author
+
+# Author
 Maintainer Stellan Eriksson <micro_se@hotmail.com>
 
 
-License
+
+# License
 
 
 
