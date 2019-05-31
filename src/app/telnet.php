@@ -1,5 +1,11 @@
 <?php
 
+/* 
+   -------------------------------------------------
+   Stellan Eriksson micro_se@hotmail.com 2019-05-31
+   -------------------------------------------------
+*/
+
 echo '<!DOCTYPE html>';
 echo '<html>';
 echo '<body>';
