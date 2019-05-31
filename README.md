@@ -1,4 +1,6 @@
-CI Status Version License Platform
+Cocoapod Badges ![License MIT](https://go-shields.herokuapp.com/license-MIT-blue.png)
+===============
+
 
 
 # Network-test-server
