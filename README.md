@@ -17,12 +17,12 @@ telnet.php make a telent request to a server and port, show the result max 10 ro
 traceroute.php make a 30 jump traceroute and present it.
 
 
-# Author
+## Author
 Maintainer Stellan Eriksson <micro_se@hotmail.com>
 
 
 
-# A simple how to
+## A simple how to
 
 Download all files
 
@@ -46,7 +46,7 @@ docker exec -i -t <pod name> bash
 
 
 
-# License
+## License
 ===============
 Copyright (c) 2019 Stellan Eriksson <micro_seh@hotmail.com>
 
