@@ -1,7 +1,21 @@
+A simple how to
+----------------------------------------------
+Download all files
+
+To build the image:
 docker build -t phpserver:v1 .
-docker run --rm -p 8080:80 phpserver:v1
 
+To start the pod:
+docker run --rm -p 8080:80 testserver:v1
+
+you will now see tha access log on the apache server
+to get out ctrl + c
+
+To see the pod name:
 docker ps -all
-docker stop
 
-docker exec -i -t b48e75c31d1b bash
+To stop the pod:
+docker stop <pod name>
+
+To login to the pod with bash shell:
+docker exec -i -t <pod name> bash
