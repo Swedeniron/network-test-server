@@ -18,13 +18,12 @@ traceroute.php make a 30 jump traceroute and present it.
 
 
 # Author
-===============
 Maintainer Stellan Eriksson <micro_se@hotmail.com>
 
 
 
-A simple how to
-===============
+# A simple how to
+
 Download all files
 
 To build the image:
