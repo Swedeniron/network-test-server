@@ -1,0 +1,7 @@
+docker build -t phpserver:v1 .
+docker run --rm -p 8080:80 phpserver:v1
+
+docker ps -all
+docker stop
+
+docker exec -i -t b48e75c31d1b bash
