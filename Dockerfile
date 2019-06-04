@@ -30,6 +30,4 @@ EXPOSE ${SERVICE_PORT}
 
 COPY . /src/app/ /var/www/html/
 RUN chown -R www-data:www-data /var/www/html/
-
-USER www-data:www-data 
 RUN a2enmod rewrite
