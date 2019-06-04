@@ -24,6 +24,11 @@ Maintainer Stellan Eriksson <micro_se@hotmail.com>
 
 ## A simple how to
 
+2019-06-04 Docker.io added login
+To be able to download images from https://www.docker.com/ you need to register a account (it's free)
+After created a account you can login true a console with the command:
+docker login -u <Username> -p <Password>
+
 Download all files
 
 To build the image:
