@@ -7,7 +7,7 @@ you need a simple test server with a webgui that they can do test for ping, curl
 
 Have been seraching for this but had to write a simple pod that could do this.
 
-A Dockerfile that installs php:7.2-apache and the commands, starting up a Apache wwebserver
+A Dockerfile that installs php:7.2-apache and the commands, starting up a Apache webserver
 
 The catalog /src/app/ are copy in under /var/www/html/
 
