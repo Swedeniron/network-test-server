@@ -53,7 +53,7 @@ docker exec -i -t <pod name> bash
 
 ## License
 ===============
-Copyright (c) 2019 Stellan Eriksson <micro_seh@hotmail.com>
+Copyright (c) 2019 Stellan Eriksson <micro_se@hotmail.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
